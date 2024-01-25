@@ -8,6 +8,6 @@ Below are screenshots of the data exploration, and comments are written in the p
 
 [Link to Python notebook](https://github.com/max-montin/COVID-19/blob/main/Covid19.ipynb)
 
-The data used in this project was downloaded from [WHO (World Health Organization](https://data.who.int/dashboards/covid19/data).
+The data used in this project was downloaded from [WHO (World Health Organization)](https://data.who.int/dashboards/covid19/data).
 
-[CSV file](https://github.com/max-montin/SP500/blob/main/S%26P%20500%20Stock%20Prices%202014-2017.csv)
+[CSV file](https://github.com/max-montin/COVID-19/blob/main/WHO-COVID-19-global-data.csv)
